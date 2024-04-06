@@ -3,7 +3,7 @@
 ----
 <details>
 <summary>
-<b>Покраска деревьев (<a href="sprint_1/nearest_zero.py">nearest_zero.py</a>)</b>
+<b>Покраска деревьев ([TreePainting](https://github.com/Konst-Is/YandexAlgorithmsTraining-5.0_2024/blob/main/TreePainting.swift))</b>
 </summary>
 
 #### Условие
