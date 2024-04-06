@@ -3,7 +3,7 @@
 ----
 <details>
 <summary>
-<b>Покраска деревьев ([TreePainting](https://github.com/Konst-Is/YandexAlgorithmsTraining-5.0_2024/blob/main/TreePainting.swift))</b>
+<b>Покраска деревьев [TreePainting](https://github.com/Konst-Is/YandexAlgorithmsTraining-5.0_2024/blob/main/TreePainting.swift)
 </summary>
 
 #### Условие
