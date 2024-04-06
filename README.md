@@ -47,7 +47,7 @@ _____
 
 <details>
 <summary>
-<b>Форматирование фаqла (<a href="FileFormatting.swift">FileFormatting.swift</a>)</b>
+<b>Форматирование файла (<a href="FileFormatting.swift">FileFormatting.swift</a>)</b>
 </summary>
 
 #### Условие
