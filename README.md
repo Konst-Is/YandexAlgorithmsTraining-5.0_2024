@@ -388,7 +388,7 @@ _____
 
 <details>
 <summary>
-<b>Анаграмма? (<a href="IsThatAnAnagram?.swift">IsThatAnAnagram?.swift</a>)</b>
+<b>Анаграмма? (<a href="Anagram.swift">Anagram.swift</a>)</b>
 </summary>
 
 #### Условие
