@@ -212,7 +212,7 @@ _____
 
 <details>
 <summary>
-<b>Петя, Маша и верёвочки (<a href="PetyaMashaAndTheRopes..swift">PetyaMashaAndTheRopes..swift</a>)</b>
+<b>Петя, Маша и верёвочки (<a href="PetyaMashaAndTheRopes.swift">PetyaMashaAndTheRopes.swift</a>)</b>
 </summary>
 
 #### Условие
