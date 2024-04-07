@@ -29,7 +29,8 @@ if !hasR && !hasB {
     for indOfR in indexesOfR {
         for k in 1...(chessboardSize - 1) {
             let hitedIndexesOfR = (indOfR.0, indOfR.1 + k)
-            if indexesOfB.contains(where: { $0 == hitedIndexesOfR }) || indexesOfR.contains(where: { $0 == hitedIndexesOfR }) {
+            if indexesOfB.contains(where: { $0 == hitedIndexesOfR }) || 
+               indexesOfR.contains(where: { $0 == hitedIndexesOfR }) {
                 break
             } else if hitedIndexesOfR.1 < chessboardSize {
                 if !hitedChessSquares.contains(where: { $0 == hitedIndexesOfR }) {
@@ -41,7 +42,8 @@ if !hasR && !hasB {
         }
         for k in 1...(chessboardSize - 1) {
             let hitedIndexesOfR = (indOfR.0, indOfR.1 - k)
-            if indexesOfB.contains(where: { $0 == hitedIndexesOfR }) || indexesOfR.contains(where: { $0 == hitedIndexesOfR }) {
+            if indexesOfB.contains(where: { $0 == hitedIndexesOfR }) || 
+               indexesOfR.contains(where: { $0 == hitedIndexesOfR }) {
                 break
             } else if hitedIndexesOfR.1 >= 0 {
                 if !hitedChessSquares.contains(where: { $0 == hitedIndexesOfR }) {
@@ -53,7 +55,8 @@ if !hasR && !hasB {
         }
         for k in 1...(chessboardSize - 1) {
             let hitedIndexesOfR = (indOfR.0 + k, indOfR.1)
-            if indexesOfB.contains(where: { $0 == hitedIndexesOfR }) || indexesOfR.contains(where: { $0 == hitedIndexesOfR }) {
+            if indexesOfB.contains(where: { $0 == hitedIndexesOfR }) || 
+               indexesOfR.contains(where: { $0 == hitedIndexesOfR }) {
                 break
             } else if hitedIndexesOfR.0 < chessboardSize {
                 if !hitedChessSquares.contains(where: { $0 == hitedIndexesOfR }) {
@@ -65,7 +68,8 @@ if !hasR && !hasB {
         }
         for k in 1...(chessboardSize - 1) {
             let hitedIndexesOfR = (indOfR.0 - k, indOfR.1)
-            if indexesOfB.contains(where: { $0 == hitedIndexesOfR }) || indexesOfR.contains(where: { $0 == hitedIndexesOfR }) {
+            if indexesOfB.contains(where: { $0 == hitedIndexesOfR }) || 
+               indexesOfR.contains(where: { $0 == hitedIndexesOfR }) {
                 break
             } else if hitedIndexesOfR.0 >= 0 {
                 if !hitedChessSquares.contains(where: { $0 == hitedIndexesOfR }) {
@@ -79,7 +83,8 @@ if !hasR && !hasB {
     for indOfB in indexesOfB {
         for k in 1...(chessboardSize - 1) {
             let hitedIndexesOfB = (indOfB.0 + k, indOfB.1 + k)
-            if indexesOfB.contains(where: { $0 == hitedIndexesOfB }) || indexesOfR.contains(where: { $0 == hitedIndexesOfB }) {
+            if indexesOfB.contains(where: { $0 == hitedIndexesOfB }) || 
+               indexesOfR.contains(where: { $0 == hitedIndexesOfB }) {
                 break
             } else if hitedIndexesOfB.0 < chessboardSize && hitedIndexesOfB.1 < chessboardSize {
                 if !hitedChessSquares.contains(where: { $0 == hitedIndexesOfB }) {
@@ -91,7 +96,8 @@ if !hasR && !hasB {
         }
         for k in 1...(chessboardSize - 1) {
             let hitedIndexesOfB = (indOfB.0 + k, indOfB.1 - k)
-            if indexesOfB.contains(where: { $0 == hitedIndexesOfB }) || indexesOfR.contains(where: { $0 == hitedIndexesOfB }) {
+            if indexesOfB.contains(where: { $0 == hitedIndexesOfB }) || 
+               indexesOfR.contains(where: { $0 == hitedIndexesOfB }) {
                 break
             } else if hitedIndexesOfB.0 < chessboardSize && hitedIndexesOfB.1 >= 0 {
                 if !hitedChessSquares.contains(where: { $0 == hitedIndexesOfB }) {
@@ -103,7 +109,8 @@ if !hasR && !hasB {
         }
         for k in 1...(chessboardSize - 1) {
             let hitedIndexesOfB = (indOfB.0 - k, indOfB.1 + k)
-            if indexesOfB.contains(where: { $0 == hitedIndexesOfB }) || indexesOfR.contains(where: { $0 == hitedIndexesOfB }) {
+            if indexesOfB.contains(where: { $0 == hitedIndexesOfB }) || 
+               indexesOfR.contains(where: { $0 == hitedIndexesOfB }) {
                 break
             } else if hitedIndexesOfB.0 >= 0 && hitedIndexesOfB.1 < chessboardSize {
                 if !hitedChessSquares.contains(where: { $0 == hitedIndexesOfB }) {
@@ -115,7 +122,8 @@ if !hasR && !hasB {
         }
         for k in 1...(chessboardSize - 1) {
             let hitedIndexesOfB = (indOfB.0 - k, indOfB.1 - k)
-            if indexesOfB.contains(where: { $0 == hitedIndexesOfB }) || indexesOfR.contains(where: { $0 == hitedIndexesOfB }) {
+            if indexesOfB.contains(where: { $0 == hitedIndexesOfB }) || 
+               indexesOfR.contains(where: { $0 == hitedIndexesOfB }) {
                 break
             } else if hitedIndexesOfB.0 >= 0 && hitedIndexesOfB.1 >= 0 {
                 if !hitedChessSquares.contains(where: { $0 == hitedIndexesOfB }) {
