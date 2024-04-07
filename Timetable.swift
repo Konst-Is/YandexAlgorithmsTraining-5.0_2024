@@ -1,6 +1,7 @@
 let n = Int(readLine()!)!
 let week = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
-var months = ["January" : 31, "February" : 28, "March" : 31, "April" : 30, "May" : 31, "June" : 30, "July" : 31, "August" : 31, "September" : 30, "October" : 31, "November" : 30, "December" : 31]
+var months = ["January" : 31, "February" : 28, "March" : 31, "April" : 30, "May" : 31, "June" : 30, "July" : 31, "August" : 31, 
+              "September" : 30, "October" : 31, "November" : 30, "December" : 31]
 var monthsOrder = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 var holidays = ["Monday" : 0, "Tuesday": 0, "Wednesday": 0, "Thursday": 0, "Friday": 0, "Saturday" : 0, "Sunday" : 0]
 var inputHolidays = [(Int, String)]()
