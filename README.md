@@ -3,7 +3,7 @@
 ----
 <details>
 <summary>
-<b>Покраска деревьев (<a href="TreePainting.swift">TreePainting.swift</a>)</b>
+<b>Покраска деревьев (<a href="YandexAlgorithmsTraining-5.0/TreePainting.swift">TreePainting.swift</a>)</b>
 </summary>
 
 #### Условие
