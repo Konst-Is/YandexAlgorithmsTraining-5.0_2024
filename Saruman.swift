@@ -4,13 +4,10 @@ let n = input[0]
 let m = input[1]
 let a = [0] + (readLine()!).split(separator: " ").map { Int($0)! }
 var answer = [Int]()
-
 var prefSum = Array(repeating: 0, count: n + 1)
-
 for i in 1...n {
     prefSum[i] = prefSum[i - 1] + a[i]
 }
-
 for _ in 1...m {
     let input = (readLine()!).split(separator: " ").map { Int($0)! }
     let numberOfRegiments = input[0]
