@@ -519,3 +519,28 @@ _____
 </details>
 
 _____
+
+<details>
+<summary>
+<b>Нумерация дробей (<a href="NumberingOfFractions.swift">NumberingOfFractions.swift</a>)</b>
+</summary>
+
+#### Условие
+Георг Кантор доказал, что множество всех рациональных чисел счетно (т.е. все рациональные числа можно пронумеровать).
+
+Чтобы упорядочить дроби необходимо их положить в таблицу, как показано на рисунке. В строку с номером i этой матрицы по порядку записаны дроби с числителем i, а в столбец с номером j дроби с знаменателем j.
+
+![[Снимок экрана 2024-04-04 в 20.55.37.png]]
+Дальше необходимо выписать все дроби в том порядке, как показано на рисунке стрелками. Получится такая последовательность: ![](https://contest.yandex.ru/testsys/tex/render/XGZyYWN7MX17MX0=.png), ![](https://contest.yandex.ru/testsys/tex/render/XGZyYWN7Mn17MX0=.png), ![](https://contest.yandex.ru/testsys/tex/render/XGZyYWN7MX17Mn0=.png), ![](https://contest.yandex.ru/testsys/tex/render/XGZyYWN7MX17M30=.png), ![](https://contest.yandex.ru/testsys/tex/render/XGZyYWN7Mn17Mn0=.png), ![](https://contest.yandex.ru/testsys/tex/render/XGZyYWN7M317MX0=.png), …
+
+Вам требуется по числу n найти числитель и знаменатель n-ой дроби.
+
+#### Формат ввода
+Во входном файле дано число n (1 ≤ n ≤ 10ˆ18) — порядковый номер дроби в последовательности.
+
+#### Формат вывода
+В выходной файл требуется вывести через символ / два числа: числитель и знаменатель соответствующей дроби.
+
+</details>
+
+_____
