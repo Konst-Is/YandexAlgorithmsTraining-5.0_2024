@@ -26,5 +26,4 @@ if n == 1 {
         }
     }
 }
-
 print(answer.map { String($0) }.joined(separator: "/"))
