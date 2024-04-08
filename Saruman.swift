@@ -32,5 +32,4 @@ for _ in 1...m {
         answer.append(-1)
     }
 }
-
 print(answer.map { String($0) }.joined(separator: "\n"))
