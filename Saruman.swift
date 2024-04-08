@@ -14,7 +14,6 @@ for _ in 1...m {
     let numberOfOrcs = input[1]
     var l = 1
     var r = n + 1 - numberOfRegiments
-    
     while l < r {
         let m = (l + r) / 2
         if prefSum[m + numberOfRegiments - 1] - prefSum[m - 1] >= numberOfOrcs {
