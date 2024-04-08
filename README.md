@@ -25,7 +25,7 @@ ______
 
 <details>
 <summary>
-<b>Футбольный комментатор (<a href="FootballCommentator.swift">FootballCommentator.swift</a>)</b>
+<b>Футбольный комментатор (<a href="YandexAlgorithmsTraining-5.0/FootballCommentator.swift">FootballCommentator.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -47,7 +47,7 @@ _____
 
 <details>
 <summary>
-<b>Форматирование файла (<a href="FileFormatting.swift">FileFormatting.swift</a>)</b>
+<b>Форматирование файла (<a href="YandexAlgorithmsTraining-5.0/FileFormatting.swift">FileFormatting.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -72,7 +72,7 @@ _____
 
 <details>
 <summary>
-<b>Слоны и ладьи (<a href="BishopsAndRooks.swift">BishopsAndRooks.swift</a>)</b>
+<b>Слоны и ладьи (<a href="YandexAlgorithmsTraining-5.0/BishopsAndRooks.swift">BishopsAndRooks.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -92,7 +92,7 @@ _____
 
 <details>
 <summary>
-<b>Прибыльный стартап (<a href="ProfitableStartup.swift">ProfitableStartup.swift</a>)</b>
+<b>Прибыльный стартап (<a href="YandexAlgorithmsTraining-5.0/ProfitableStartup.swift">ProfitableStartup.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -110,7 +110,7 @@ _____
 
 <details>
 <summary>
-<b>Миша и математика (<a href="MishaAndMaths.swift">MishaAndMaths.swift</a>)</b>
+<b>Миша и математика (<a href="YandexAlgorithmsTraining-5.0/MishaAndMaths.swift">MishaAndMaths.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -128,7 +128,7 @@ _____
 
 <details>
 <summary>
-<b>Забег по стадиону (<a href="RunningAroundTheStadium.swift">RunningAroundTheStadium.swift</a>)</b>
+<b>Забег по стадиону (<a href="YandexAlgorithmsTraining-5.0/RunningAroundTheStadium.swift">RunningAroundTheStadium.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -150,7 +150,7 @@ _____
 
 <details>
 <summary>
-<b>Расписание (<a href="Timetable.swift">Timetable.swift</a>)</b>
+<b>Расписание (<a href="YandexAlgorithmsTraining-5.0/Timetable.swift">Timetable.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -174,7 +174,7 @@ _____
 
 <details>
 <summary>
-<b>Минимальный прямоугольник (<a href="MinimumRectangle.swift">MinimumRectangle.swift</a>)</b>
+<b>Минимальный прямоугольник (<a href="YandexAlgorithmsTraining-5.0/MinimumRectangle.swift">MinimumRectangle.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -192,7 +192,7 @@ _____
 
 <details>
 <summary>
-<b>Продавец рыбы (<a href="FishSeller.swift">FishSeller.swift</a>)</b>
+<b>Продавец рыбы (<a href="YandexAlgorithmsTraining-5.0/FishSeller.swift">FishSeller.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -212,7 +212,7 @@ _____
 
 <details>
 <summary>
-<b>Петя, Маша и верёвочки (<a href="PetyaMashaAndTheRopes.swift">PetyaMashaAndTheRopes.swift</a>)</b>
+<b>Петя, Маша и верёвочки (<a href="YandexAlgorithmsTraining-5.0/PetyaMashaAndTheRopes.swift">PetyaMashaAndTheRopes.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -231,7 +231,7 @@ _____
 
 <details>
 <summary>
-<b>Шахматная доска (<a href="ChessBoard.swift">ChessBoard.swift</a>)</b>
+<b>Шахматная доска (<a href="YandexAlgorithmsTraining-5.0/ChessBoard.swift">ChessBoard.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -249,7 +249,7 @@ _____
 
 <details>
 <summary>
-<b>Амбициозная улитка (<a href="AmbitiousSnail.swift">AmbitiousSnail.swift</a>)</b>
+<b>Амбициозная улитка (<a href="YandexAlgorithmsTraining-5.0/AmbitiousSnail.swift">AmbitiousSnail.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -271,7 +271,7 @@ _____
 
 <details>
 <summary>
-<b>Колесо фортуны (<a href="WheelOfFortune.swift">WheelOfFortune.swift</a>)</b>
+<b>Колесо фортуны (<a href="YandexAlgorithmsTraining-5.0/WheelOfFortune.swift">WheelOfFortune.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -299,7 +299,7 @@ _____
 
 <details>
 <summary>
-<b>Ни больше, ни меньше (<a href="NoMoreNoLess.swift">NoMoreNoLess.swift</a>)</b>
+<b>Ни больше, ни меньше (<a href="YandexAlgorithmsTraining-5.0/NoMoreNoLess.swift">NoMoreNoLess.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -323,7 +323,7 @@ _____
 
 <details>
 <summary>
-<b>Наилучший запрет (<a href="BestProhibition.swift">BestProhibition.swift</a>)</b>
+<b>Наилучший запрет (<a href="YandexAlgorithmsTraining-5.0/BestProhibition.swift">BestProhibition.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -344,7 +344,7 @@ _____
 
 <details>
 <summary>
-<b>Пираты Баренцева моря (<a href="PiratesOfTheBarentsSea.swift">PiratesOfTheBarentsSea.swift</a>)</b>
+<b>Пираты Баренцева моря (<a href="YandexAlgorithmsTraining-5.0/PiratesOfTheBarentsSea.swift">PiratesOfTheBarentsSea.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -365,7 +365,7 @@ _____
 
 <details>
 <summary>
-<b>Плейлисты (<a href="Playlists.swift">Playlists.swift</a>)</b>
+<b>Плейлисты (<a href="YandexAlgorithmsTraining-5.0/Playlists.swift">Playlists.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -390,7 +390,7 @@ _____
 
 <details>
 <summary>
-<b>Анаграмма? (<a href="Anagram.swift">Anagram.swift</a>)</b>
+<b>Анаграмма? (<a href="YandexAlgorithmsTraining-5.0/Anagram.swift">Anagram.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -408,7 +408,7 @@ _____
 
 <details>
 <summary>
-<b>Удаление чисел (<a href="DeletionOfNumbers.swift">DeletionOfNumbers.swift</a>)</b>
+<b>Удаление чисел (<a href="YandexAlgorithmsTraining-5.0/DeletionOfNumbers.swift">DeletionOfNumbers.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -427,7 +427,7 @@ _____
 
 <details>
 <summary>
-<b>Повторяющееся число (<a href="RepeatedNumber.swift">RepeatedNumber.swift</a>)</b>
+<b>Повторяющееся число (<a href="YandexAlgorithmsTraining-5.0/RepeatedNumber.swift">RepeatedNumber.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -446,7 +446,7 @@ _____
 
 <details>
 <summary>
-<b>Два из трёх (<a href="TwoOutOfThree.swift">TwoOutOfThree.swift</a>)</b>
+<b>Два из трёх (<a href="YandexAlgorithmsTraining-5.0/TwoOutOfThree.swift">TwoOutOfThree.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -464,7 +464,7 @@ _____
 
 <details>
 <summary>
-<b>Замена слов (<a href="SubstitutionOfWords.swift">SubstitutionOfWords.swift</a>)</b>
+<b>Замена слов (<a href="YandexAlgorithmsTraining-5.0/SubstitutionOfWords.swift">SubstitutionOfWords.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -485,7 +485,7 @@ _____
 
 <details>
 <summary>
-<b>Быстрый поиск в массиве (<a href="QuickArraySearch.swift">QuickArraySearch.swift</a>)</b>
+<b>Быстрый поиск в массиве (<a href="YandexAlgorithmsTraining-5.0/QuickArraySearch.swift">QuickArraySearch.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -506,7 +506,7 @@ _____
 
 <details>
 <summary>
-<b>Одномерный морской бой (<a href="OneDimensionalSeaBattle.swift">OneDimensionalSeaBattle.swift</a>)</b>
+<b>Одномерный морской бой (<a href="YandexAlgorithmsTraining-5.0/OneDimensionalSeaBattle.swift">OneDimensionalSeaBattle.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -524,7 +524,7 @@ _____
 
 <details>
 <summary>
-<b>Нумерация дробей (<a href="NumberingOfFractions.swift">NumberingOfFractions.swift</a>)</b>
+<b>Нумерация дробей (<a href="YandexAlgorithmsTraining-5.0/NumberingOfFractions.swift">NumberingOfFractions.swift</a>)</b>
 </summary>
 
 #### Условие
@@ -550,7 +550,7 @@ _____
 
 <details>
 <summary>
-<b>Саруман (<a href="Saruman.swift">Saruman.swift</a>)</b>
+<b>Саруман (<a href="YandexAlgorithmsTraining-5.0/Saruman.swift">Saruman.swift</a>)</b>
 </summary>
 
 #### Условие
