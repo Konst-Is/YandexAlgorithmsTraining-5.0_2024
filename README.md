@@ -530,8 +530,9 @@ _____
 
 Чтобы упорядочить дроби необходимо их положить в таблицу, как показано на рисунке. В строку с номером i этой матрицы по порядку записаны дроби с числителем i, а в столбец с номером j дроби с знаменателем j.
 
-![[Снимок экрана 2024-04-04 в 20.55.37.png]]
-Дальше необходимо выписать все дроби в том порядке, как показано на рисунке стрелками. Получится такая последовательность: ![](https://contest.yandex.ru/testsys/tex/render/XGZyYWN7MX17MX0=.png), ![](https://contest.yandex.ru/testsys/tex/render/XGZyYWN7Mn17MX0=.png), ![](https://contest.yandex.ru/testsys/tex/render/XGZyYWN7MX17Mn0=.png), ![](https://contest.yandex.ru/testsys/tex/render/XGZyYWN7MX17M30=.png), ![](https://contest.yandex.ru/testsys/tex/render/XGZyYWN7Mn17Mn0=.png), ![](https://contest.yandex.ru/testsys/tex/render/XGZyYWN7M317MX0=.png), …
+![Снимок экрана 2024-04-08 в 13 10 34](https://github.com/Konst-Is/YandexAlgorithmsTraining-5.0_2024/assets/125888284/7bb34142-6aaa-4808-9fd7-0632c747ca4a)
+
+Дальше необходимо выписать все дроби в том порядке, как показано на рисунке стрелками. Получится такая последовательность: 
 
 Вам требуется по числу n найти числитель и знаменатель n-ой дроби.
 
